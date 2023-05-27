@@ -589,7 +589,9 @@ Publish the website in the given URL.
 </html>
 ```
 ## Output:
-1.![Uploading 2023-05-27 (1).png…]()
+![2023-05-27 (2)](https://github.com/sivaram-R/productweb/assets/121165794/269a0bcb-965a-4600-aa09-5a190ceac441)
+
+![2023-05-27 (3)](https://github.com/sivaram-R/productweb/assets/121165794/670a62cb-dae9-4b50-a205-c088bc27d318)
 
 
 ## HTML Validator
