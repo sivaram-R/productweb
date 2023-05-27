@@ -597,7 +597,5 @@ Publish the website in the given URL.
 
 ![2023-05-27 (4)](https://github.com/sivaram-R/productweb/assets/121165794/0702bb24-6f4c-4db1-b040-5e9f3f4e11e9)
 
-## HTML Validator
-
 ## Result:
 The program for designing company website for sale of products using HTML and CSS is completed successfully.
